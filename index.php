@@ -55,11 +55,9 @@
           comment: true
         }
       ],
-      config = {
-        closeButton:{
+      closeButton:{
         visible:true
-        }
-      }      
+      }
     }
   );
 </script>
