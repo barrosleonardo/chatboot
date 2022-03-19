@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Test 22</title>
+    <title>Test 222</title>
     <script src="https://sdk.inbenta.io/chatbot/1/inbenta-chatbot-sdk.js"></script>
 </head>
 <body>
@@ -59,7 +59,7 @@
         visible:true
       },
       relatedPosition: 'mixed',
-      modalSystemMessage = {
+      modalSystemMessage: {
         message: 'Custom system Message with modal setting to true',
         translate: true,
         modal:true,
