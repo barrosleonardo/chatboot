@@ -57,7 +57,8 @@
       ],
       closeButton:{
         visible:true
-      }
+      },
+      relatedPosition: 'mixed'
     }
   );
 </script>
