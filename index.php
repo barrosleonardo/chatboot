@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Test 1</title>
+    <title>Test 22</title>
     <script src="https://sdk.inbenta.io/chatbot/1/inbenta-chatbot-sdk.js"></script>
 </head>
 <body>
