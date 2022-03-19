@@ -26,7 +26,7 @@
       usertype: 0,
       environment: "development",
       launcher: {
-        title:"InbentaBotSDK"
+        title:"Teste de bot"
       },
       labels: {
         en: {
@@ -55,6 +55,11 @@
           comment: true
         }
       ],
+      config = {
+        closeButton:{
+        visible:true
+        }
+      }      
     }
   );
 </script>
