@@ -58,7 +58,17 @@
       closeButton:{
         visible:true
       },
-      relatedPosition: 'mixed'
+      relatedPosition: 'mixed',
+      modalSystemMessage = {
+        message: 'Custom system Message with modal setting to true',
+        translate: true,
+        modal:true,
+        id:"testingSystemMessage",
+        options: [
+          {label: 'First',value:'yes'},
+          {label: 'Second', value:'no'}
+        ]
+     }
     }
   );
 </script>
