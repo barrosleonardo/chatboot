@@ -74,6 +74,7 @@
     }
   );
 
+  /*
   config.html = {
      'custom-window-header':  '<div class="inbenta-bot__chat__header">'
         +'<div class="header__title">'
@@ -81,6 +82,8 @@
         +'</div>'
         +'<close-custom-conversation-window/>'
         +'</div>';
+  }
+  */
 
 </script>
 </body>
