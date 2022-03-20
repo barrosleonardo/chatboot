@@ -55,9 +55,10 @@
           comment: true
         }
       ],
+      /*
       closeButton:{
         visible:true
-      },
+      },*/
       relatedPosition: 'mixed',
     }
   );
