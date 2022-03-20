@@ -70,15 +70,8 @@
           bottom: 15,
           right: 15,
         }
-      },
-      html = {
-        'custom-window-header':  '<div class="inbenta-bot__chat__header">'
-        +'<div class="header__title">'
-        +'Custom Inbenta form'
-        +'</div>'
-        +'<close-custom-conversation-window/>'
-        +'</div>'
       }
+      
     }
   );
 
