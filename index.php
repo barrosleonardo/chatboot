@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Test 333</title>
+    <title>Test 4</title>
     <script src="https://sdk.inbenta.io/chatbot/1/inbenta-chatbot-sdk.js"></script>
 </head>
 <body>
@@ -34,7 +34,7 @@
           'no' : 'Nope',
           'generic-error-message' : 'Please try to answer again',
           'enter-question' : 'Ask here',
-          'interface-title' : 'SDK Demo',
+          'interface-title' : 'Test Inbenta',
           'guest-name' : 'You',
           'help-question' : 'Hello! What can I help you with?',
           'thanks' : 'Thank you!',
@@ -55,10 +55,9 @@
           comment: true
         }
       ],
-      /*
       closeButton:{
         visible:true
-      },*/
+      },
       relatedPosition: 'mixed',
     }
   );
