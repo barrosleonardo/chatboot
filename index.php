@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Test 222</title>
+    <title>Test 333</title>
     <script src="https://sdk.inbenta.io/chatbot/1/inbenta-chatbot-sdk.js"></script>
 </head>
 <body>
@@ -36,7 +36,7 @@
           'enter-question' : 'Ask here',
           'interface-title' : 'SDK Demo',
           'guest-name' : 'You',
-          'help-question' : 'What can I help you with?',
+          'help-question' : 'Hello! What can I help you with?',
           'thanks' : 'Thank you!',
           'rate-content' : 'Did it help?',
           'form-message' : 'Please tell us why',
@@ -59,16 +59,6 @@
         visible:true
       },
       relatedPosition: 'mixed',
-      modalSystemMessage: {
-        message: 'Custom system Message with modal setting to true',
-        translate: true,
-        modal:true,
-        id:"testingSystemMessage",
-        options: [
-          {label: 'First',value:'yes'},
-          {label: 'Second', value:'no'}
-        ]
-     }
     }
   );
 </script>
